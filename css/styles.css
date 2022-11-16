@@ -3,3 +3,20 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: #222;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.grid-container{
+
+}
+
+.grid-box{
+    background-color: rgb(128,191,255);
+    border: 3px solid rgb(2,85,168);
+    padding:2rem;
+}
